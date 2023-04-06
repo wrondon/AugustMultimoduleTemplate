@@ -30,7 +30,6 @@ moshi="1.14.0"
 splashscreen="1.0.0"
 livedata="1.4.0"
 
-
 [libraries]
 androidx-core-ktx = { module = "androidx.core:core-ktx", version.ref = "androidxCore" }
 androidx-activity-compose = { module = "androidx.activity:activity-compose", version.ref = "androidxActivity" }
@@ -99,7 +98,6 @@ retrofit-converter-moshi={module= "com.squareup.retrofit2:converter-moshi", vers
 moshi={module="com.squareup.moshi:moshi", version.ref="moshi"}
 moshi-kotlin={module="com.squareup.moshi:moshi-kotlin", version.ref="moshi"}
 moshi-adapters={module="com.squareup.moshi:moshi-adapters", version.ref="moshi"}
-
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "androidGradlePlugin" }
