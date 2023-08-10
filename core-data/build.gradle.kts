@@ -23,11 +23,11 @@ plugins {
 
 android {
     namespace = "com.wrondon.multimoduletemplate.core.data"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         minSdk = 21
-        targetSdk = 33
+        targetSdk = 34
 
         testInstrumentationRunner = "com.wrondon.multimoduletemplate.core.testing.HiltTestRunner"
         consumerProguardFiles("consumer-rules.pro")
