@@ -17,5 +17,5 @@
 
 <resources>
 
-    <style name="Theme.AprilMultimoduleTemplete" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.AugustMultimoduleTemplete" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>

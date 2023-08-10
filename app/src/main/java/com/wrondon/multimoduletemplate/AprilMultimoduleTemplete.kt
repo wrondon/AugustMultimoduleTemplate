@@ -20,4 +20,4 @@ import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
 
 @HiltAndroidApp
-class AprilMultimoduleTemplete : Application()
+class AugustMultimoduleTemplete : Application()
